@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b9ba1ba-616a-458d-9473-3209a55e129e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images360/images360/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images360/images360/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images360/images360/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images360/images360/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images360/images360/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images360/images360/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images360/images360/spiders/image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images360/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/spiders/taobao.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/spiders/taobao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/pipelines.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,46 +25,20 @@
     <SUITE FILE_PATH="coverage/scrapy_demo1$rules.coverage" NAME="rules Coverage Results" MODIFIED="1654831479469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyyuniversal/scrapyyuniversal" />
     <SUITE FILE_PATH="coverage/scrapy_demo1$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1654765381349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyyuniversal/scrapyyuniversal" />
     <SUITE FILE_PATH="coverage/scrapy_demo1$test.coverage" NAME="test Coverage Results" MODIFIED="1654765003086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/scrapy_demo1$taobao.coverage" NAME="taobao Coverage Results" MODIFIED="1656839301362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/spiders" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="rules.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapyyuniversal/scrapyyuniversal/rules.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#123#170#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="universal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapyyuniversal/scrapyyuniversal/spiders/universal.py">
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="china.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapyyuniversal/scrapyyuniversal/spiders/china.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapyjd/scrapyjd/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="370">
+              <caret line="50" column="25" selection-start-line="7" selection-end-line="50" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -73,7 +46,8 @@
       <file leaf-file-name="jd.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/spiders/jd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="3" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -81,39 +55,67 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="46" selection-start-line="46" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1938">
+              <caret line="102" column="13" selection-start-line="102" selection-start-column="13" selection-end-line="102" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="taobao.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/spiders/taobao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="108" column="39" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="47" />
+              <folding>
+                <element signature="e#4315#4345#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/items.py">
+        <entry file="file://$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapy.cfg">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="httpbin.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/spiders/httpbin.py">
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/items.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapyjd/scrapyjd/middlewares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2508">
-              <caret line="142" selection-start-line="142" selection-end-line="142" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/middlewares.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="jd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapyjd/scrapyjd/spiders/jd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="30" column="86" selection-start-line="30" selection-start-column="86" selection-end-line="30" selection-end-column="86" />
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -131,6 +133,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>spalsh</find>
+      <find>MAX_PAGE</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -154,7 +157,6 @@
         <option value="$PROJECT_DIR$/scrapyjd/scrapyjd/pipelines.py" />
         <option value="$PROJECT_DIR$/scrapyjd/scrapyjd/middlewares.py" />
         <option value="$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/items.py" />
-        <option value="$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/pipelines.py" />
         <option value="$PROJECT_DIR$/jh.js" />
         <option value="$PROJECT_DIR$/scrapyjd/scrapyjd/spiders/jd.py" />
         <option value="$PROJECT_DIR$/scrapyjd/scrapyjd/items.py" />
@@ -181,6 +183,12 @@
         <option value="$PROJECT_DIR$/scrapyyuniversal/scrapyyuniversal/settings.py" />
         <option value="$PROJECT_DIR$/tutorial/tutorial/pipelines.py" />
         <option value="$PROJECT_DIR$/tutorial/tutorial/settings.py" />
+        <option value="$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/items.py" />
+        <option value="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/settings.py" />
+        <option value="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/spiders/taobao.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -223,6 +231,31 @@
               <item name="scrapysplashtaobao" type="462c0819:PsiDirectoryNode" />
               <item name="scrapysplashtaobao" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="scrapy_demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy_demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapysplashtaobao" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapysplashtaobao" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapy_demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy_demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapysplashtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapy_demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy_demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapysplashtest" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapysplashtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapy_demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapy_demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapysplashtest" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapysplashtest" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -255,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rules">
+  <component name="RunManager" selected="Python.taobao">
     <configuration name="rules" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scrapy_demo1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,6 +303,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapyyuniversal/scrapyyuniversal/rules.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="taobao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scrapy_demo1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/spiders/taobao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,39 +384,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="scrapy_demo1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Python\python2020\PyCharm 2018.1.4\location\scrapy_demo1\scrapyyuniversal\scrapyyuniversal\configs\test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.test (2)" />
       <item itemvalue="Python.test (3)" />
       <item itemvalue="Python.rules" />
+      <item itemvalue="Python.taobao" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.taobao" />
         <item itemvalue="Python.rules" />
         <item itemvalue="Python.test (3)" />
         <item itemvalue="Python.test (2)" />
         <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -396,11 +429,11 @@
       <window_info anchor="right" id="JuliaSciView" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50469166" side_tool="true" weight="0.103253186" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.76340485" weight="0.3281471" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4953083" visible="true" weight="0.24045262" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19772118" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4953083" weight="0.4950495" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19772118" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -460,46 +493,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorial/quotes.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jh.js" />
-    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapyjd/scrapyjd/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="12" selection-start-line="12" selection-end-line="51" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapyjd/scrapyjd/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="2" lean-forward="true" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Python 3.7.3/Lib/site-packages/scrapy_splash/middleware.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5643" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Python 3.7.3/Lib/site-packages/scrapy/linkextractors/lxmlhtml.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="102" column="8" selection-start-line="102" selection-start-column="8" selection-end-line="102" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images360/logs/image/2022-06-07T174602.522901.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
@@ -579,20 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1919">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -740,25 +719,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/spiders/jd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/items.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scrapydownloadertest/scrapydownloadertest/spiders/httpbin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#238#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="50" column="25" selection-start-line="7" selection-end-line="50" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="46" selection-start-line="46" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="102" column="13" selection-start-line="102" selection-start-column="13" selection-end-line="102" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapysplashtest/scrapysplashtest/spiders/jd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapysplashtaobao/scrapysplashtaobao/spiders/taobao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="108" column="39" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="47" />
+          <folding>
+            <element signature="e#4315#4345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
